@@ -1,0 +1,5 @@
+class universe
+{
+    public :
+        universe();
+};

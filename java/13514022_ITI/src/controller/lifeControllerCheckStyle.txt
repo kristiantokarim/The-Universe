@@ -1,0 +1,10 @@
+Starting audit...
+[ERROR] C:\Users\user\Documents\Semester 4\OOP\Iti\src\controller\LifeControl.java:0: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\user\Documents\Semester 4\OOP\Iti\src\controller\LifeControl.java:17: Line is longer than 80 characters (found 120). [LineLength]
+[ERROR] C:\Users\user\Documents\Semester 4\OOP\Iti\src\controller\LifeControl.java:17:54: Parameter s should be final. [FinalParameters]
+[ERROR] C:\Users\user\Documents\Semester 4\OOP\Iti\src\controller\LifeControl.java:17:67: Parameter nObject should be final. [FinalParameters]
+[ERROR] C:\Users\user\Documents\Semester 4\OOP\Iti\src\controller\LifeControl.java:41: Line is longer than 80 characters (found 82). [LineLength]
+[ERROR] C:\Users\user\Documents\Semester 4\OOP\Iti\src\controller\LifeControl.java:47: Line is longer than 80 characters (found 83). [LineLength]
+[ERROR] C:\Users\user\Documents\Semester 4\OOP\Iti\src\controller\LifeControl.java:48: Line is longer than 80 characters (found 82). [LineLength]
+[ERROR] C:\Users\user\Documents\Semester 4\OOP\Iti\src\controller\LifeControl.java:70: Line is longer than 80 characters (found 93). [LineLength]
+Audit done.

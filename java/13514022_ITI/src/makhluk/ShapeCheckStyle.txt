@@ -1,0 +1,4 @@
+Starting audit...
+[ERROR] C:\Users\user\Documents\Semester 4\OOP\Iti\src\makhluk\Shape.java:0: Missing package-info.java file. [JavadocPackage]
+[ERROR] C:\Users\user\Documents\Semester 4\OOP\Iti\src\makhluk\Shape.java:44:5: Method 'getKekuatan' is not designed for extension - needs to be abstract, final or empty. [DesignForExtension]
+Audit done.
